@@ -22,3 +22,4 @@ class Example(MDApp):
 
 Example().run()
 print("Test")
+print("Test2")
