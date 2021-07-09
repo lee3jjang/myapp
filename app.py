@@ -21,3 +21,4 @@ class Example(MDApp):
         toast('Test Kivy Toast')
 
 Example().run()
+print("Test")
