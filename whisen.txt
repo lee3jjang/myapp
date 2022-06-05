@@ -1,9 +1,0 @@
-show me the money
-operation cwal
-c2b6720
-a
-<<<<<<< HEAD
-aa
-=======
-bb
->>>>>>> 854fe592479780e96e2105802babe28d531d3807
