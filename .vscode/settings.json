@@ -1,0 +1,18 @@
+{
+  "editor.minimap.enabled": false,
+  "workbench.startupEditor": "none",
+  "editor.renderWhitespace": "none",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "editor.formatOnSave": true,
+  "window.zoomLevel": 1,
+  "python.autoComplete.extraPaths": [
+  
+  ],
+  "python.linting.mypyEnabled": true,
+  "python.linting.flake8Enabled": true,
+  "python.linting.pylintEnabled": true,
+  "python.defaultInterpreterPath": "~/.local/share/virtualenvs/myapp-A1_5aAqK"
+}

@@ -8,8 +8,12 @@ pyyaml = "*"
 pandas = "*"
 matplotlib = "*"
 django = "*"
+graphene = "*"
+graphene-django = "*"
 
 [dev-packages]
+mypy = "*"
+pylint = "*"
 
 [requires]
 python_version = "3.9"
